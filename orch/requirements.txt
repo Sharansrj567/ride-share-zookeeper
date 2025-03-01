@@ -1,0 +1,8 @@
+ipython
+pika
+kazoo
+flask
+flask_cors
+requests
+uuid
+docker
